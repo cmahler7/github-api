@@ -6,7 +6,7 @@ import Home from './Components/home'
 import Battle from './Components/battle';
 import {Switch} from 'react-router-dom'
 import Results from './Components/results'
-
+//sdfsdf
 const ReactRouter = require('react-router-dom');
 const Router = ReactRouter.BrowserRouter;
 const Route = ReactRouter.Route;
